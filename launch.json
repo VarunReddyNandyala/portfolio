@@ -7,7 +7,7 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Varunnandyala.html",
+            "name": "Open Varunnandyala.html",
             "file": "D:\\Projects\\Portfolio\\Varunnandyala.html"
         }
     ]
